@@ -1,0 +1,7 @@
+D:\Semester 3\19.11.2826 pemograman lanjut\5.5\CouponWithOCP\bin\Debug\CouponWithOCP.exe.config
+D:\Semester 3\19.11.2826 pemograman lanjut\5.5\CouponWithOCP\bin\Debug\CouponWithOCP.exe
+D:\Semester 3\19.11.2826 pemograman lanjut\5.5\CouponWithOCP\bin\Debug\CouponWithOCP.pdb
+D:\Semester 3\19.11.2826 pemograman lanjut\5.5\CouponWithOCP\obj\Debug\CouponWithOCP.csprojAssemblyReference.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\5.5\CouponWithOCP\obj\Debug\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\Semester 3\19.11.2826 pemograman lanjut\5.5\CouponWithOCP\obj\Debug\CouponWithOCP.exe
+D:\Semester 3\19.11.2826 pemograman lanjut\5.5\CouponWithOCP\obj\Debug\CouponWithOCP.pdb
